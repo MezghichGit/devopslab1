@@ -1,1 +1,3 @@
-Les cmds de bases de git
+1)Installation de git
+2)Les cmds de bases de git
+3)Déploiement du code source sur github
